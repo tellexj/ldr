@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(135, 166, 177);
+    color: white;
+}
+nav{
+    text-align: center;
+}
+
+nav a{
+    font-size: 28px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+a:hover{
+    background-color: rgb(135, 166, 177);
+}
+h1{
+    font-size: 36px;
+}
+h2{
+    font-size: 32px;
+}
+p{ 
+ font-size: 30px;
+}
+div{
+    text-align: center;
+}
+div img{
+    width: 600px;
+    height: 600px;
+    border: solid white 6px;
+    border-radius: 12px;
+}
+small{ font-size: 20px;
+}
+div a{
+    color: lightblue;
+    text-decoration: none;
+}
+.video iframe{
+    border-radius: 16px;
+    border: solid white 6px;
+}
+iframe{
+    text-align: center;
+ }
